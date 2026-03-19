@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fbalser06
+- 👋 Hi, I’m fbalser
 - git config --global user.name "Ferdinand Balser"
 git config --global user.email "feba2806@gmail.com"
 - 👀 I’m interested in volleyball
